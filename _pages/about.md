@@ -14,6 +14,9 @@ My research interest focuses on the control theory of partial differential equat
 Here is a [CV](http://yubo-bai.github.io/files/cv_yubo.bai.pdf).
 
 # Publications {#publications}
+## Preprint
+- Yubo Bai, Christophe Prieur, and Zhiqiang Wang, [Finite-time output regulation for homogeneous quasilinear hyperbolic systems](http://yubo-bai.github.io/files/submissionCAM.pdf), submitted.
+
 ## Journal articles
 - Yubo Bai, Christophe Prieur, and Zhiqiang Wang, [Finite-time output regulation for time-varying $$2\times2$$ hyperbolic systems](http://yubo-bai.github.io/files/ima2025.pdf), **IMA Journal of Mathematical Control and Information**, vol. 42 (3), pp. dnaf024, 2025.
 - Yubo Bai, Christophe Prieur, and Zhiqiang Wang, [Finite-time output regulation for linear time-varying hyperbolic balance laws](http://yubo-bai.github.io/files/Bai_et2025.pdf), **SIAM Journal on Control and Optimization**, vol. 63 (4), pp. 2427-2450, 2025.

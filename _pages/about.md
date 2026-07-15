@@ -16,8 +16,8 @@ Here is a [CV](http://yubo-bai.github.io/files/cv_yubo.bai.pdf).
 # Publications {#publications}
 ## Preprints
 - Yubo Bai and Amaury Hayat, Lyapunov functions and stability of linear two-dimensional hyperbolic systems, hal-05455719.
-- Yubo Bai and Amaury Hayat, Control and stabilization of the Saint-Venant equations, submitted.
-- Yubo Bai, Christophe Prieur, and Zhiqiang Wang, [Finite-time output regulation for homogeneous quasilinear hyperbolic systems](http://yubo-bai.github.io/files/submissionCAM.pdf), submitted.
+- Yubo Bai and Amaury Hayat, [Boundary control and stabilization of the Saint-Venant equations](http://yubo-bai.github.io/files/CAM26_ah.pdf), accepted by **Chinese Annals of Mathematics Ser B (Special Issue for Prof. Coron)**.
+- Yubo Bai, Christophe Prieur, and Zhiqiang Wang, [Finite-time output regulation for homogeneous quasilinear hyperbolic systems](http://yubo-bai.github.io/files/regulation_quasi_accepted.pdf), accepted by **Chinese Annals of Mathematics Ser B (Special Issue for Prof. Coron)**.
 
 ## Journal articles
 - Yubo Bai, Christophe Prieur, and Zhiqiang Wang, [Finite-time output regulation for time-varying $$2\times2$$ hyperbolic systems](http://yubo-bai.github.io/files/ima2025.pdf), **IMA Journal of Mathematical Control and Information**, vol. 42 (3), pp. dnaf024, 2025.
@@ -30,6 +30,7 @@ Here is a [CV](http://yubo-bai.github.io/files/cv_yubo.bai.pdf).
 - Yubo Bai, Christophe Prieur, and Zhiqiang Wang, [A note on controllability and non-controllability for a Rayleigh beam with piezoelectric actuator](http://yubo-bai.github.io/files/CT23–7.pdf), <i>SIAM Conference on Control and Its Applications (CT'23)</i>, Philadelphia (PA), USA, 2023. Preprint
 
 # Talks {#talks}
+- [47ème Congrès National d'Analyse Numérique (CANUM 2026)](https://canum2026.math.cnrs.fr), Saint-Jacut-de-la-Mer, France, Jun, 2026.
 - [Congrès des Jeunes Chercheur.e.s en Mathématiques Appliquées (CJC-MA 2026)](https://cjcma2026.sciencesconf.org/?lang=fr), Champ-sur-Marne, France, Mar. 2026.
 - [5th IFAC Workshop on Control of Systems Governed by Partial Differential Equations (CPDE 2025)](https://cpde2025.bjut.edu.cn/index.html#/home), Beijing, China, Jun. 2025.
 - [2ème Congrès SAGIP](https://sagip2024.sciencesconf.org) (minisymposium), Lyon, France, May 2024.
